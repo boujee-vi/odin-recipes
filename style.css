@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+    background-color: rgb(185, 177, 177);
+    font-size: 40px;
+    font-weight: bold;
+    font-style: unset;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center;
+}
+
+p {
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center; 
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center;
+}
